@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/kashav/fsql/query"
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/query"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 func TestParser_ParseSelect(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/kashav/fsql/query"
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/query"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 // Run parses the input string and returns the parsed AST (query).

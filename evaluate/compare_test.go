@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 func TestCmpAlpha(t *testing.T) {

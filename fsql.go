@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/kashav/fsql/parser"
+	"github.com/romiras/fsql/parser"
 )
 
 // Run parses the input and executes the resultant query.

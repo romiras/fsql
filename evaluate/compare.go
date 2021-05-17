@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kashav/fsql/tokenizer"
-	"github.com/kashav/fsql/transform"
+	"github.com/romiras/fsql/tokenizer"
+	"github.com/romiras/fsql/transform"
 )
 
 // cmpAlpha performs alphabetic comparison on a and b.

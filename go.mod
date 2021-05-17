@@ -1,4 +1,4 @@
-module github.com/kashav/fsql
+module github.com/romiras/fsql
 
 go 1.14
 

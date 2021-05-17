@@ -9,7 +9,7 @@ var GITCOMMIT string
 var VERSION string
 
 // Release holds the current release number, should match the value
-// in $GOPATH/src/github.com/kashav/fsql/VERSION.
+// in $GOPATH/src/github.com/romiras/fsql/VERSION.
 const Release = "0.4.0"
 
 // Meta returns the version/commit string.

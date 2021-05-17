@@ -6,8 +6,8 @@ import (
 
 	"github.com/oleiade/lane"
 
-	"github.com/kashav/fsql/query"
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/query"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 // parseConditionTree parses the condition tree passed to the WHERE clause.

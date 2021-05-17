@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 func TestSourceParser_ExpectCorrectSources(t *testing.T) {

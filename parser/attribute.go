@@ -3,8 +3,8 @@ package parser
 import (
 	"strings"
 
-	"github.com/kashav/fsql/query"
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/query"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 var allAttributes = []string{"mode", "size", "time", "hash", "name"}

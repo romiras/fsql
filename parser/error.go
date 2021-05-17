@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/kashav/fsql/tokenizer"
+	"github.com/romiras/fsql/tokenizer"
 )
 
 // ErrUnexpectedToken represents an unexpected token error.
